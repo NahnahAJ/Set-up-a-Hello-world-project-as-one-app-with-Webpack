@@ -106,7 +106,7 @@ $ git clone https://github.com/NahnahAJ/Set-up-a-Hello-world-project-as-one-app-
 - Then switch to the project folder by the bellow query:
 
 ```
-$ cd budgetApp
+$ cd Set-up-a-Hello-world-project-as-one-app-with-Webpack
 ```
 
 - Install the required dependecies with `bundle install`
